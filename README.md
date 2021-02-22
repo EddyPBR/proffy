@@ -3,7 +3,7 @@
 <h1 align="center" decoration="none"> Proffy </h1>
 <br />
 
-O Proffy consiste em um sistemas virtual para estudos. O mundo infrenta uma pandemia devido ao COVID-19, perante a este problema, diversos sistemas e orgãos educacionais se vêm com dificuldades para transmitir o conhecimento para seus alunos, pois não se podem existir aglomerações. Sendo assim, as entidades afetadas com estes tipos de problemas estão buscando sistemas virtuais de aprendizado para transmitir o conhecimento para os seus alunos, e o projeto Proffy é exatamente um desses sistemas.
+O Proffy consiste em um sistema virtual para estudos. O mundo enfrenta uma pandêmia devido ao COVID-19, perante a este problema, diversos sistemas e orgãos educacionais se vêm com dificuldades para transmitir o conhecimento para seus alunos, pois não se podem existir aglomerações. Sendo assim, as entidades afetadas com estes tipos de problemas estão buscando sistemas virtuais de aprendizado para transmitir o conhecimento para os seus alunos, e o projeto Proffy é exatamente um desses sistemas.
 <br />
 <br />
 
